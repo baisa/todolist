@@ -1,0 +1,76 @@
+#tasks {
+    color: black;
+    border: 2px solid #FA6900;
+    border-radius: 5px;
+}
+.tasks-list {
+    color: black;
+}
+.done {
+    text-decoration:line-through;
+}
+#submit {
+    text-decoration:none;
+    width: 50px;
+    height: 16px;
+    background-color: #F38630;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 2px solid #FA6900;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+#completed {
+    text-decoration:none;
+    width: 200px;
+    height: 16px;
+    background-color: #F38630;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 2px solid #FA6900;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+#active {
+    text-decoration:none;
+    width: 100px;
+    height: 16px;
+    background-color: #F38630;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 2px solid #FA6900;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+#all {
+    text-decoration:none;
+    width: 80px;
+    height: 16px;
+    background-color: #F38630;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 2px solid #FA6900;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+.trash {
+    width: 30px;
+    height: 25px;
+    color: black;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 13px;
+    text-align: center;
+}
